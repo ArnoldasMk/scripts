@@ -1,2 +1,12 @@
-# Scripts
-Scripts I use for something or I am just wasting time optimizing one thing by 0.3 seconds for 12 hours
+# scripts
+Dependencies - python3
+
+Usage
+```
+python script.py
+```
+
+| Python Script                         | Usage                                                          |
+| --------------------------------------| ---------------------------------------------------------------|
+| copium_quotes.py                      | Cool quotes, helps to cope =D                                  |
+| delete_duplicate_lines.py             | Deletes duplicate lines in your txt file                       |
